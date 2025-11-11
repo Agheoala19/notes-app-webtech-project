@@ -1,9 +1,9 @@
 # ASE Notes Manager
 
-🎯 Objective:
+## 🎯 Objective:
 A web application that allows students to manage their lecture and seminar notes.
 
-🧩 Technologies:
+## 🧩 Technologies:
 
 Frontend: React.js
 
@@ -15,7 +15,7 @@ Authentication: Google OAuth2 (@stud.ase.ro)
 
 Deployment: Render / Vercel / Railway
 
-📂 Planned Structure
+## 📂 Planned Structure
 
 project/
  ├── frontend/
